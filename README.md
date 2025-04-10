@@ -5,7 +5,7 @@
 ________________________________________________________
 <h2>About me</h2> 
 
- <p>My name is Benjamin Abebe and I'm currently going to St. Mother Teresa High School, Ottawa, Canada. I have 3 years experience of coding and I can 5 programming languages. Through these 3 years, I have claimed quite a few certificates for my accomplishments for 300+ hours of coding course. I do math to improve my problem solving skills and critical thinking skills. I do martial arts like taekwondo to make my self active both physically and mentally. I also play soccer If I have a free time.</p>
+ <p>My name is Benjamin Abebe and I'm currently going to St. Mother Teresa High School, Ottawa, Canada. I have 3 years experience of coding and I know 5 programming languages. In those 3 years, I have claimed quite a few certificates of my accomplishments for 300+ hours of coding course. I do math to improve my problem solving skills and critical thinking skills. I do martial arts like taekwondo to make my self active both physically and mentally. I also play soccer If I have a free time.</p>
  
 ![200](https://github.com/user-attachments/assets/651b2325-7f46-4bf3-8797-011f15a7cfa5)
 __________________________________________________________________________________________________
@@ -19,7 +19,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________
 
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Kali](https://https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
  ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 __________________________________________________________________________________________________
  <p>Programming language </p>
